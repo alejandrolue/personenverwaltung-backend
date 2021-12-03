@@ -1,0 +1,241 @@
+commit f61f222caf55e805a526d1738d79849a40832cb7
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Sun Nov 21 21:18:27 2021 +0100
+
+    CRUD For User
+
+commit a14a65c40878e9b5b7ae70c12525493fd8bf870c
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Sun Nov 21 20:59:52 2021 +0100
+
+    CRUD For User
+
+commit b364ca95f2b96e0305e61b2b652f30e9f57fb058
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Sat Nov 20 19:09:37 2021 +0100
+
+    user fixes connections
+
+commit 3f5cf82ffbd9e2564c6edf3b6e6242fa5de9623e
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Sat Nov 20 18:24:35 2021 +0100
+
+    made the User connections
+
+commit c0e1f6708809ff6e00de59584ae3279a6e36769e
+Merge: 07aaf04 95e6e82
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 18:30:55 2021 +0100
+
+    Merge branch 'feature/Role' into develop
+
+commit 95e6e82ab126fc22f2de05d866c1e1389b30c4b7
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 18:30:41 2021 +0100
+
+    added the controller and Service for the role
+
+commit ca06cb9a030457a0431507a3aae262a93ee2224e
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 18:22:50 2021 +0100
+
+    created user domain
+
+commit 07aaf0407c3568728ce83b2db7db937ace23080d
+Merge: 386f244 3a382b2
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 18:17:54 2021 +0100
+
+    Merge branch 'feature/LogIn' into develop
+
+commit 3a382b21f21ac9abd2140881fda909490137fafa
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 18:15:48 2021 +0100
+
+    login fixes
+
+commit 386f244306d531a138437992287c6c93113ef8cc
+Merge: 1fc7f3d 09fd6d0
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 14:48:41 2021 +0100
+
+    Merge branch 'feature/Projekt' into develop
+
+commit 09fd6d0d3b613fe913129e106739624d8b2ebf4d
+Merge: 42c7274 1fc7f3d
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 14:48:29 2021 +0100
+
+    Merge branch 'develop' into feature/Projekt
+
+commit 1fc7f3df97c97ed7749033827254f4b9f1e58e5f
+Merge: 712311f 77037cf
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 14:48:19 2021 +0100
+
+    Merge branch 'feature/Teams' into develop
+
+commit 77037cf56f51808d79b50717bb4d58df434bb4f3
+Merge: b42f62a 42c7274
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 14:48:08 2021 +0100
+
+    Merge branch 'feature/Projekt' into feature/Teams
+
+commit 42c72747fa75d23073e7574c832082ca95b0f452
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 14:47:41 2021 +0100
+
+    fixes
+
+commit b42f62a2fe0c586474f31e2231ec1af732e69923
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 14:46:46 2021 +0100
+
+    fixes
+
+commit 39a361b15eb6fcd0e6d9e1293c7048e9911787ec
+Merge: 5e89feb 9b632cd
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 14:37:33 2021 +0100
+
+    Merge branch 'feature/Projekt' into feature/Teams
+
+commit 712311f9bdedb59fd9a5d7921f345f967434ef12
+Merge: 67e5937 5e89feb
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 14:37:25 2021 +0100
+
+    Merge branch 'feature/Teams' into develop
+
+commit 67e5937dae51fa19cd5b0bf7c47130d7914ecb63
+Merge: a3cb89f 9b632cd
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 14:37:19 2021 +0100
+
+    Merge branch 'feature/Projekt' into develop
+
+commit 9b632cd692b702f07ca7285cf22940efe0ae7e9c
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 14:36:08 2021 +0100
+
+    added path to the controller
+
+commit 5e89feb6da2ff8502d6c7c3933190ae9541bec56
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 14:34:41 2021 +0100
+
+    added path in the controller
+
+commit a3cb89f7a578b8f4794a1a91ab76ee1697e1e6fb
+Merge: b7f1753 0b97f80
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 14:30:22 2021 +0100
+
+    Merge branch 'feature/Teams' into develop
+
+commit b7f17532217f78a39928ac8ccb5f79b8dbaaed73
+Merge: 995d881 383e309
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 14:30:11 2021 +0100
+
+    Merge branch 'feature/Projekt' into develop
+
+commit 0b97f809c550bbe079baf3347bd81b90e4f5807a
+Merge: 4dd365a 383e309
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 14:28:27 2021 +0100
+
+    Merge branch 'feature/Projekt' into feature/Teams
+
+commit 383e3095411b4858cd8b18a8e42e6ef4071b112e
+Merge: 7d79da0 4dd365a
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 14:28:01 2021 +0100
+
+    Merge branch 'feature/Teams' into feature/Projekt
+
+commit 7d79da098080bcfeed5f67f0b951f76c5e6d5c35
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 14:27:15 2021 +0100
+
+    naming changes
+
+commit 995d881bddd0016107b72a3077003bd12c5eae9c
+Merge: 5aa5157 372354c
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 14:22:25 2021 +0100
+
+    Merge branch 'feature/EntryChanges' into develop
+
+commit 4dd365ad8c04cb651a1d2aeda2956ea84eb5d7f4
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 14:20:18 2021 +0100
+
+    git fix
+
+commit e8e98c0c8ea7f06a2db7c0131d21c7c7830790d6
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 14:19:28 2021 +0100
+
+    created ProjectController
+    and one naming change in TeamsService
+
+commit d1af7a69da01435377a252f2b7fd119b1530776b
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 14:11:21 2021 +0100
+
+    Created TeamsService.java with the functionalitys
+
+commit 8a8ffe197dce8736dc09b2337fd3bdfd97e7afce
+Merge: f435153 d8f7703
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 14:05:17 2021 +0100
+
+    Merge branch 'feature/Projekt' into feature/Teams
+
+commit d8f7703be74cc66809dbb40112bb050110a4e077
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 14:02:13 2021 +0100
+
+    created projects contorller and made naming fixes.
+    and created the project service
+
+commit f435153babcdc998f893fad4baec97c997f8e35a
+Merge: f998ffc c898688
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 12:59:57 2021 +0100
+
+    Merge branch 'feature/Projekt' into feature/Teams
+
+commit c898688f0576abca6633456112ae7339f8fb85c2
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 12:58:53 2021 +0100
+
+    projekt domain erstellen
+
+commit f998ffc4e2a0710ed24ca162e3a2a3efb99de3ca
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 12:54:11 2021 +0100
+
+    Projkt domain erstellt
+
+commit 372354c6e62b2da6d50dffb2cde26c82fdc7d729
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Thu Nov 18 11:20:20 2021 +0100
+
+    Made the the time only to 2 values checkout and checkin.
+    
+    Made new values for message and the projekt
+
+commit dee8703ba605272149709f8ea38424c9019a1009
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Wed Nov 17 13:01:38 2021 +0100
+
+    Added new values for the time
+
+commit 5aa51573fc9a2f2c58cd217c7094f21738de5cac
+Author: alejandro lüthi <alejandro.luthi@gmail.com>
+Date:   Tue Nov 16 15:44:21 2021 +0100
+
+    first commit
